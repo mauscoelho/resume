@@ -19,7 +19,7 @@ Fueled by a fervent passion for innovation and the dynamic energy of startup env
 - **Front-End Technologies:** Tailwind CSS, SCSS, React
 - **Backend Technologies:** GraphQL, NodeJS
 - **Mobile Development:** React Native, Android, iOS
-- **Programming Languages:** TypeScript, JavaScript, Rust, C#
+- **Programming Languages:** TypeScript, JavaScript, Kotlin, C#, Rust
 - **Other:** Agile Methodologies (Scrum, Kanban), Microservices Architecture
 
 ## Work Experience
